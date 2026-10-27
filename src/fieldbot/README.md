@@ -2,7 +2,7 @@
 
 **Advanced Autonomous Navigation Stack for Agricultural Robotics**
 
-FieldBot is a professional-grade ROS 2 Jazzy package featuring GPS/IMU/EKF sensor fusion for outdoor localization, 3D RGB-D perception, and Nav2-based autonomous navigation. Designed for agricultural environments with deterministic event-driven architecture.
+FieldBot is a ROS 2 Jazzy package featuring GPS/IMU/EKF sensor fusion for outdoor localization, 3D RGB-D perception, and Nav2-based autonomous navigation. Designed for agricultural environments with deterministic event-driven architecture.
 
 ---
 
