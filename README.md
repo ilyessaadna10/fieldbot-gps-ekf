@@ -218,5 +218,5 @@ This project is licensed under the **Apache 2.0 License**.
 
 ## 🔗 Links
 
-- **Author**: Saadna Ilyes · [LinkedIn](https://linkedin.com/in/ilyes-saadna) · saadna.ilyes.dev@gmail.com
+- **Author**: Saadna Ilyes · [LinkedIn](https://linkedin.com/in/ilyes-saadna) · ilyessaadna4@gmail.com
 
